@@ -9,3 +9,4 @@
 8. [Snake Game Using JavaScript](https://youtu.be/9TcU2C1AACw)
 9. [Flappy Bird Game Using JavaScript](https://youtu.be/L07i4g-zhDA)
 10. [To-Do-List Using JavaScript]( https://youtu.be/b8sUhU_eq3g)
+11. [20 Projects with JS](https://github.com/bradtraversy/vanillawebprojects)
