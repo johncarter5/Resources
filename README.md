@@ -12,3 +12,4 @@
 11. [20 Projects with JS](https://github.com/bradtraversy/vanillawebprojects)
 12. [Basic Chrome Extension](https://levelup.gitconnected.com/make-your-first-chrome-extension-with-javascript-7aa383db2b03)
 13. [Chrome Extension Documentation](https://developer.chrome.com/docs/extensions/mv3/)
+14. [More Interesting Projects](https://github.com/strongdan/beginner-js-projects)
